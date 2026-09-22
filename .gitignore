@@ -1,0 +1,11 @@
+# Python environment (everyone makes their own)
+venv/
+
+# Big data folders (shared via Google Drive instead)
+data/
+clean/**/*.png
+
+# Mac and Python junk files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
